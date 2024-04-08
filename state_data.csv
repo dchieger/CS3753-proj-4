@@ -1,0 +1,51 @@
+State Abv,State Name,Population,Capital,Largest City,Ratification,Area (mi²),Area (km²),Representatives
+AL,Alabama,"5,024,279",Montgomery,Huntsville,"Dec 14, 1819","52,420","135,767",7
+AK,Alaska,"733,391",Juneau,Anchorage,"Jan 3, 1959","665,384","1,723,337",1
+AZ,Arizona,"7,151,502",Phoenix,Phoenix,"Feb 14, 1912","113,990","295,234",9
+AR,Arkansas,"3,011,524",Little Rock,Little Rock,"Jun 15, 1836","53,179","137,732",4
+CA,California,"39,538,223",Sacramento,Los Angeles,"Sep 9, 1850","163,695","423,967",52
+CO,Colorado,"5,773,714",Denver,Denver,"Aug 1, 1876","104,094","269,601",8
+CT,Connecticut,"3,605,944",Hartford,Bridgeport,"Jan 9, 1788","5,543","14,357",5
+DE,Delaware,"989,948",Dover,Wilmington,"Dec 7, 1787","2,489","6,446",1
+FL,Florida,"21,538,187",Tallahassee,Jacksonville,"Mar 3, 1845","65,758","170,312",28
+GA,Georgia,"10,711,908",Atlanta,Atlanta,"Jan 2, 1788","59,425","153,910",14
+HI,Hawaii,"1,455,271",Honolulu,Honolulu,"Aug 21, 1959","10,932","28,313",2
+ID,Idaho,"1,839,106",Boise,Boise,"Jul 3, 1890","83,569","216,443",2
+IL,Illinois,"12,812,508",Springfield,Chicago,"Dec 3, 1818","57,914","149,995",17
+IN,Indiana,"6,785,528",Indianapolis,Indianapolis,"Dec 11, 1816","36,420","94,326",9
+IA,Iowa,"3,190,369",Des Moines,Des Moines,"Dec 28, 1846","56,273","145,746",4
+KS,Kansas,"2,937,880",Topeka,Wichita,"Jan 29, 1861","82,278","213,100",4
+KY,Kentucky,"4,505,836",Frankfort,Louisville,"Jun 1, 1792","40,408","104,656",6
+LA,Louisiana,"4,657,757",Baton Rouge,New Orleans,"Apr 30, 1812","52,378","135,659",6
+ME,Maine,"1,362,359",Augusta,Portland,"Mar 15, 1820","35,380","91,633",2
+MD,Maryland,"6,177,224",Annapolis,Baltimore,"Apr 28, 1788","12,406","32,131",8
+MA,Massachusetts,"7,029,917",Boston,Boston,"Feb 6, 1788","10,554","27,336",9
+MI,Michigan,"10,077,331",Lansing,Detroit,"Jan 26, 1837","96,714","250,487",13
+MN,Minnesota,"5,706,494",Saint Paul,Minneapolis,"May 11, 1858","86,936","225,163",8
+MS,Mississippi,"2,961,279",Jackson,Jackson,"Dec 10, 1817","48,432","125,438",4
+MO,Missouri,"6,154,913",Jefferson City,Kansas City,"Aug 10, 1821","69,707","180,540",8
+MT,Montana,"1,084,225",Helena,Billings,"Nov 8, 1889","147,040","380,831",2
+NE,Nebraska,"1,961,504",Lincoln,Omaha,"Mar 1, 1867","77,348","200,330",3
+NV,Nevada,"3,104,614",Carson City,Las Vegas,"Oct 31, 1864","110,572","286,380",4
+NH,New Hampshire,"1,377,529",Concord,Manchester,"Jun 21, 1788","9,349","24,214",2
+NJ,New Jersey,"9,288,994",Trenton,Newark,"Dec 18, 1787","8,723","22,591",12
+NM,New Mexico,"2,117,522",Santa Fe,Albuquerque,"Jan 6, 1912","121,590","314,917",3
+NY,New York,"20,201,249",Albany,New York City,"Jul 26, 1788","54,555","141,297",26
+NC,North Carolina,"10,439,388",Raleigh,Charlotte,"Nov 21, 1789","53,819","139,391",14
+ND,North Dakota,"779,094",Bismarck,Fargo,"Nov 2, 1889","70,698","183,108",1
+OH,Ohio,"11,799,448",Columbus,Columbus,"Mar 1, 1803","44,826","116,098",15
+OK,Oklahoma,"3,959,353",Oklahoma City,Oklahoma City,"Nov 16, 1907","69,899","181,037",5
+OR,Oregon,"4,237,256",Salem,Portland,"Feb 14, 1859","98,379","254,799",6
+PA,Pennsylvania,"13,002,700",Harrisburg,Philadelphia,"Dec 12, 1787","46,054","119,280",17
+RI,Rhode Island,"1,097,379",Providence,Providence,"May 29, 1790","1,545","4,001",2
+SC,South Carolina,"5,118,425",Columbia,Charleston,"May 23, 1788","32,020","82,933",7
+SD,South Dakota,"886,667",Pierre,Sioux Falls,"Nov 2, 1889","77,116","199,729",1
+TN,Tennessee,"6,910,840",Nashville,Nashville,"Jun 1, 1796","42,144","109,153",9
+TX,Texas,"29,145,505",Austin,Houston,"Dec 29, 1845","268,596","695,662",38
+UT,Utah,"3,271,616",Salt Lake City,Salt Lake City,"Jan 4, 1896","84,897","219,882",4
+VT,Vermont,"643,077",Montpelier,Burlington,"Mar 4, 1791","9,616","24,906",1
+VA,Virginia,"8,631,393",Richmond,Virginia Beach,"Jun 25, 1788","42,775","110,787",11
+WA,Washington,"7,705,281",Olympia,Seattle,"Nov 11, 1889","71,298","184,661",10
+WV,West Virginia,"1,793,716",Charleston,Charleston,"Jun 20, 1863","24,230","62,756",2
+WI,Wisconsin,"5,893,718",Madison,Milwaukee,"May 29, 1848","65,496","169,635",8
+WY,Wyoming,"576,851",Cheyenne,Cheyenne,"Jul 10, 1890","97,813","253,335",1
